@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Navigation System",
+  "description": "An interactive smart campus navigation system using Graph, Dijkstra's Algorithm, Hash Table, and Priority Queue data structures with visual map routing and full Java source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
